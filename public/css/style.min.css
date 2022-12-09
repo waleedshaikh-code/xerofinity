@@ -19,7 +19,7 @@
 }
 
 html {
-    overflow-x: hidden !important
+    overflow-x: visible !important
 }
 
 body {
